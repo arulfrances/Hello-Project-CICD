@@ -1,3 +1,3 @@
 # ci-cd maven-project
 
-Simple Maven Project
+Simple Java Maven Project
